@@ -711,7 +711,7 @@ body{background:var(--bg); color:#3D3D4E;}
 // Apps Script bên dự án Từ vựng — Sheet vẫn ở chế độ RIÊNG TƯ, script đóng vai "người
 // gác cổng", không bao giờ trả nguyên bảng mật khẩu ra ngoài.
 // Để trống "" thì app chạy ở chế độ demo (đăng nhập luôn thành công, không đồng bộ server).
-const LOGIN_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx6_MjaD48tUnq7PzcQdjLwxI-6-rgseAIANkcr46gmwSOyw48AE8opxICU8uvfJeZb/exec"; // ví dụ: "https://script.google.com/macros/s/AKfycbxxxxxxxxxxxx/exec"
+const LOGIN_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyrByxrAGcdZeFiV9EopyQyZKiELXpY_oY_F6obuLxnUYSASaeh1JNCLzAY1jOOgYxE/exec"; // ví dụ: "https://script.google.com/macros/s/AKfycbxxxxxxxxxxxx/exec"
 
 let currentUser = null;
 let grammarDatabase = [];     // toàn bộ ngữ pháp TOPIK I + II đã gộp, xem loadGrammarData()
@@ -881,6 +881,7 @@ function loginSuccess(userData, rememberMe) {
   applyUserToUI();
   document.getElementById('login-screen')?.classList.add('hidden');
   document.getElementById('app-shell')?.classList.remove('hidden');
+  startAccountStatusWatcher();
   boot();
 }
 
@@ -906,10 +907,60 @@ function applyUserToUI() {
 function logoutUser() {
   try { localStorage.removeItem('grammar_classroom_session'); sessionStorage.removeItem('grammar_classroom_session'); } catch (e) {}
   currentUser = null;
+  stopAccountStatusWatcher();
   document.getElementById('app-shell')?.classList.add('hidden');
   document.getElementById('login-screen')?.classList.remove('hidden');
   const uEl = document.getElementById('login-username'), pEl = document.getElementById('login-password');
   if (uEl) uEl.value = ''; if (pEl) pEl.value = '';
+}
+
+/* ================================================================
+   Kiểm tra định kỳ tài khoản có bị giáo viên đình chỉ (Status="OUT")
+   hoặc xoá khỏi bảng USER hay không, để đá ra ngay khi đang dùng dở
+   (không cần chờ user tự bấm đăng xuất rồi đăng nhập lại mới biết).
+   ================================================================ */
+let accountStatusTimer = null;
+const ACCOUNT_STATUS_CHECK_MS = 60000;
+
+function startAccountStatusWatcher() {
+  stopAccountStatusWatcher();
+  if (!LOGIN_SCRIPT_URL || !currentUser || !currentUser.username) return;
+  checkAccountStatus(); // kiểm tra ngay (quan trọng với phiên khôi phục từ cache, chưa từng hỏi server)
+  accountStatusTimer = setInterval(checkAccountStatus, ACCOUNT_STATUS_CHECK_MS);
+  document.addEventListener('visibilitychange', onVisibilityRecheckAccountStatus);
+}
+
+function stopAccountStatusWatcher() {
+  if (accountStatusTimer) { clearInterval(accountStatusTimer); accountStatusTimer = null; }
+  document.removeEventListener('visibilitychange', onVisibilityRecheckAccountStatus);
+}
+
+function onVisibilityRecheckAccountStatus() {
+  if (document.visibilityState === 'visible') checkAccountStatus();
+}
+
+async function checkAccountStatus() {
+  if (!LOGIN_SCRIPT_URL || !currentUser || !currentUser.username) return;
+  try {
+    const url = `${LOGIN_SCRIPT_URL}?action=checkStatus&user=${encodeURIComponent(currentUser.username)}`;
+    const res = await fetch(url);
+    const data = JSON.parse(await res.text());
+    if (!data.success) {
+      const msg = data.reason === 'blocked'
+        ? 'Tài khoản của bạn đã bị giáo viên đình chỉ.'
+        : 'Tài khoản của bạn không còn tồn tại trong hệ thống.';
+      forceLogoutWithMessage(msg);
+    }
+  } catch (e) {
+    // Lỗi mạng tạm thời — bỏ qua, lần kiểm tra tiếp theo sẽ thử lại, không đăng xuất oan user.
+  }
+}
+
+function forceLogoutWithMessage(message) {
+  logoutUser();
+  const errEl = document.getElementById('login-error');
+  if (errEl) { errEl.textContent = message; errEl.classList.remove('hidden'); }
+  else alert(message);
 }
 
 function openPolicyModal() { const el = document.getElementById('policy-modal'); if (el) { el.classList.remove('hidden'); el.classList.add('flex'); } }
@@ -3174,6 +3225,7 @@ document.addEventListener('DOMContentLoaded', () => {
         applyUserToUI();
         document.getElementById('login-screen')?.classList.add('hidden');
         document.getElementById('app-shell')?.classList.remove('hidden');
+        startAccountStatusWatcher();
         boot();
       }
     }

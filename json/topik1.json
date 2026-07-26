@@ -3635,36 +3635,6 @@
     ]
   },
   {
-    "id": "GS0121",
-    "stt": 121,
-    "grammar": "만큼",
-    "topik": "I",
-    "level": "2급",
-    "category": "Mức độ",
-    "confusing": "",
-    "similar": "",
-    "meaning": "Bằng... / Như... (So sánh ngang bằng)",
-    "structure": "N만큼, V/A(으)ㄴ/는/ㄹ 만큼",
-    "note": "",
-    "examples": [
-      {
-        "text": "저도 수빈 씨만큼 한국어를 잘하고 싶어요.",
-        "highlight": "",
-        "translation": ""
-      },
-      {
-        "text": "하늘만큼 땅만큼 사랑해요.",
-        "highlight": "",
-        "translation": ""
-      },
-      {
-        "text": "먹을 만큼만 가져가세요.",
-        "highlight": "",
-        "translation": ""
-      }
-    ]
-  },
-  {
     "id": "GS0122",
     "stt": 122,
     "grammar": "던",

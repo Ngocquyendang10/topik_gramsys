@@ -947,8 +947,8 @@ async function checkAccountStatus() {
     const data = JSON.parse(await res.text());
     if (!data.success) {
       const msg = data.reason === 'blocked'
-        ? 'Tài khoản của bạn đã bị giáo viên đình chỉ.'
-        : 'Tài khoản của bạn không còn tồn tại trong hệ thống.';
+        ? 'Tài khoản của bạn đã vô hiệu hoá. Vui lòng liên hệ giáo viên để được hỗ trợ đăng nhập lại.'
+        : 'Tài khoản của bạn không tồn tại.';
       forceLogoutWithMessage(msg);
     }
   } catch (e) {

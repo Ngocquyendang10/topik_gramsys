@@ -1142,7 +1142,7 @@
   {
     "id": "GS0039",
     "stt": 39,
-    "grammar": "거나",
+    "grammar": "-거나",
     "topik": "I",
     "level": "2급",
     "category": "Liệt kê bổ sung & Lựa chọn",
@@ -3635,8 +3635,8 @@
     ]
   },
   {
-    "id": "GS0122",
-    "stt": 122,
+    "id": "GS0121",
+    "stt": 121,
     "grammar": "던",
     "topik": "I",
     "level": "2급",
@@ -3665,8 +3665,8 @@
     ]
   },
   {
-    "id": "GS0123",
-    "stt": 123,
+    "id": "GS0122",
+    "stt": 122,
     "grammar": "(으)면 되다",
     "topik": "I",
     "level": "2급",
@@ -3695,9 +3695,9 @@
     ]
   },
   {
-    "id": "GS0124",
-    "stt": 124,
-    "grammar": "기도 하다",
+    "id": "GS0123",
+    "stt": 123,
+    "grammar": "-기도 하다",
     "topik": "I",
     "level": "2급",
     "category": "Liệt kê bổ sung & Lựa chọn",
@@ -3725,12 +3725,12 @@
     ]
   },
   {
-    "id": "GS0125",
-    "stt": 125,
-    "grammar": "기만 하다",
+    "id": "GS0124",
+    "stt": 124,
+    "grammar": "-기만 하다",
     "topik": "I",
     "level": "2급",
-    "category": "Điều kiện & Giả định",
+    "category": "Giới hạn",
     "confusing": "",
     "similar": "",
     "meaning": "Chỉ làm gì đó... / Chỉ toàn là...",
@@ -3755,9 +3755,9 @@
     ]
   },
   {
-    "id": "GS0126",
-    "stt": 126,
-    "grammar": "기 바라다",
+    "id": "GS0125",
+    "stt": 125,
+    "grammar": "-기 바라다",
     "topik": "I",
     "level": "2급",
     "category": "Cảm xúc",
@@ -3785,8 +3785,8 @@
     ]
   },
   {
-    "id": "GS0127",
-    "stt": 127,
+    "id": "GS0126",
+    "stt": 126,
     "grammar": "을/ㄹ 정도로",
     "topik": "I",
     "level": "2급",
@@ -3815,8 +3815,8 @@
     ]
   },
   {
-    "id": "GS0128",
-    "stt": 128,
+    "id": "GS0127",
+    "stt": 127,
     "grammar": "N적이다",
     "topik": "I",
     "level": "2급",
@@ -3845,8 +3845,8 @@
     ]
   },
   {
-    "id": "GS0129",
-    "stt": 129,
+    "id": "GS0128",
+    "stt": 128,
     "grammar": "는 동안",
     "topik": "I",
     "level": "2급",
@@ -3875,8 +3875,8 @@
     ]
   },
   {
-    "id": "GS0130",
-    "stt": 130,
+    "id": "GS0129",
+    "stt": 129,
     "grammar": "는 편이다",
     "topik": "I",
     "level": "2급",
@@ -3905,8 +3905,8 @@
     ]
   },
   {
-    "id": "GS0131",
-    "stt": 131,
+    "id": "GS0130",
+    "stt": 130,
     "grammar": "덕분에",
     "topik": "I",
     "level": "2급",
@@ -3935,8 +3935,8 @@
     ]
   },
   {
-    "id": "GS0132",
-    "stt": 132,
+    "id": "GS0131",
+    "stt": 131,
     "grammar": "는 뒤",
     "topik": "I",
     "level": "2급",
@@ -3965,8 +3965,8 @@
     ]
   },
   {
-    "id": "GS0133",
-    "stt": 133,
+    "id": "GS0132",
+    "stt": 132,
     "grammar": "다가",
     "topik": "I",
     "level": "2급",
@@ -3995,8 +3995,8 @@
     ]
   },
   {
-    "id": "GS0134",
-    "stt": 134,
+    "id": "GS0133",
+    "stt": 133,
     "grammar": "아/어다가",
     "topik": "I",
     "level": "2급",
@@ -4025,8 +4025,8 @@
     ]
   },
   {
-    "id": "GS0135",
-    "stt": 135,
+    "id": "GS0134",
+    "stt": 134,
     "grammar": "았/었다가",
     "topik": "I",
     "level": "2급",
@@ -4055,8 +4055,8 @@
     ]
   },
   {
-    "id": "GS0136",
-    "stt": 136,
+    "id": "GS0135",
+    "stt": 135,
     "grammar": "는지",
     "topik": "I",
     "level": "2급",
@@ -4085,8 +4085,8 @@
     ]
   },
   {
-    "id": "GS0137",
-    "stt": 137,
+    "id": "GS0136",
+    "stt": 136,
     "grammar": "는 중",
     "topik": "I",
     "level": "2급",
@@ -4115,8 +4115,8 @@
     ]
   },
   {
-    "id": "GS0138",
-    "stt": 138,
+    "id": "GS0137",
+    "stt": 137,
     "grammar": "만에",
     "topik": "I",
     "level": "2급",

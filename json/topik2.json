@@ -1197,7 +1197,7 @@
     "level": "3급",
     "category": "Thời gian & Trình tự",
     "confusing": "",
-    "similar": "-기가 무섭게, -는 대로",
+    "similar": "-기가 무섭게, -(으)ㄴ/는 대로",
     "meaning": "Ngay sau khi... (tính liên tục cực kỳ nhanh)",
     "structure": "V-자마자",
     "note": "Có thể dùng thoải mái cho cả văn nói lẫn văn viết.",
@@ -2250,7 +2250,7 @@
     "similar": "처럼, 같이, -(으)ㄴ/는 것처럼",
     "meaning": "Như là, cứ như thể là",
     "structure": "V/A-듯(이)",
-    "note": "Dùng để ví von, so sánh mức độ hoặc hình ảnh của hành động vế sau giống vế trước.",
+    "note": "Dùng để ví von, so sánh mức độ hoặc hình ảnh của hành động vế sau giống vế trước. Dạng rút gọn, mang tính tạo câu quán ngữ/thành ngữ.",
     "examples": [
       {
         "text": "땀이 비 오듯 쏟아지는데도 계속 달렸어요.",
@@ -2387,7 +2387,7 @@
     "level": "4급",
     "category": "Nhượng bộ",
     "confusing": "",
-    "similar": "-(으)면서도, -는데도",
+    "similar": "-(으)면서도, -(으)ㄴ/는데도",
     "meaning": "Mặc dù đã làm gì nhưng lại có kết quả trái ngược",
     "structure": "V-고도",
     "note": "Nhấn mạnh sự mâu thuẫn giữa hành động vế trước và thái độ/kết quả ở vế sau.",
@@ -2492,7 +2492,7 @@
     "level": "4급",
     "category": "Nguyên nhân - Kết quả",
     "confusing": "",
-    "similar": "-기 때문에, -(으)므로, -어서",
+    "similar": "-기 때문에, -(으)므로, -어서, -길래",
     "meaning": "Do, vì (lý do mang tính khách quan làm căn cứ cho vế sau)",
     "structure": "V/A-기에",
     "note": "Thường dùng nhiều trong văn viết hoặc văn phong nghị luận trang trọng.",
@@ -2662,41 +2662,6 @@
   {
     "id": "GT0077",
     "stt": 77,
-    "grammar": "-든지",
-    "topik": "II",
-    "level": "2급",
-    "category": "Liệt kê bổ sung & Lựa chọn",
-    "confusing": "",
-    "similar": "-거나, -든가",
-    "meaning": "Dù là... hay là (chọn cái nào cũng đều được, không quan trọng)",
-    "structure": "V/A-든지, N이든지",
-    "note": "Thường lặp lại hai lần hoặc kết hợp với các từ để hỏi như '언제', '어디', '누구'.",
-    "examples": [
-      {
-        "text": "공부를 하든지 운동을 하든지 시간을 잘 쓰세요.",
-        "highlight": "하든지",
-        "translation": "Dù là học bài hay là tập thể thao thì bạn cũng hãy sử dụng thời gian hợp lý."
-      },
-      {
-        "text": "언제든지 궁금한 점이 있으면 질문해 주세요.",
-        "highlight": "언제든지",
-        "translation": "Bất cứ khi nào nếu có điều gì thắc mắc thì hãy cứ đặt câu hỏi cho tôi nhé."
-      },
-      {
-        "text": "소비자가 온라인으로 구매하든지 오프라인 매장을 방문하든지 동일한 혜택을 받는다.",
-        "highlight": "구매하든지",
-        "translation": "Bất kể người tiêu dùng mua hàng trực tuyến hay đến cửa hàng trực tiếp thì đều nhận được ưu đãi giống nhau."
-      },
-      {
-        "text": "주말에 영화를 보든지 운동을 하든지 해야겠습니다.",
-        "highlight": "보든지",
-        "translation": "Cuối tuần dù là xem phim hay tập thể dục thì cũng phải làm mới được."
-      }
-    ]
-  },
-  {
-    "id": "GT0078",
-    "stt": 78,
     "grammar": "-(으)ㄴ/는 대로",
     "topik": "II",
     "level": "3급",
@@ -2730,43 +2695,8 @@
     ]
   },
   {
-    "id": "GT0079",
-    "stt": 79,
-    "grammar": "-(는)다면서요?",
-    "topik": "II",
-    "level": "3급",
-    "category": "Thuật lại",
-    "confusing": "",
-    "similar": "-(는)다고 하던데요?, -(는)다지요?",
-    "meaning": "Nghe nói là... có đúng không? (Xác nhận lại thông tin)",
-    "structure": "V-ㄴ/는다면서요?, A-다면서요?, N-(이)라면서요?",
-    "note": "Dùng khi muốn xác nhận lại một sự thật mà mình đã nghe được từ người khác hoặc nguồn khác.",
-    "examples": [
-      {
-        "text": "이번 토픽 시험이 아주 어려웠다면서요?",
-        "highlight": "어려웠다면서요",
-        "translation": "Nghe nói là kỳ thi TOPIK lần này khó lắm có phải không ạ?"
-      },
-      {
-        "text": "철수 씨가 다음 달에 한국으로 유학을 간다면서요?",
-        "highlight": "간다면서요",
-        "translation": "Nghe nói là anh Chul-soo tháng sau đi du học Hàn Quốc đúng không ạ?"
-      },
-      {
-        "text": "이번 정부 정책이 내년부터 새롭게 개정된다면서요?",
-        "highlight": "개정된다면서요",
-        "translation": "Nghe nói là chính sách chính phủ lần này sẽ được sửa đổi mới từ năm sau có đúng không?"
-      },
-      {
-        "text": "이번 주말에 새 집으로 이사한다면서요?",
-        "highlight": "이사한다면서요",
-        "translation": "Nghe nói cuối tuần này bạn sẽ chuyển sang nhà mới phải không?"
-      }
-    ]
-  },
-  {
-    "id": "GT0080",
-    "stt": 80,
+    "id": "GT0078",
+    "stt": 78,
     "grammar": "-(으)ㄹ 줄 알다",
     "topik": "II",
     "level": "2급",
@@ -2800,8 +2730,8 @@
     ]
   },
   {
-    "id": "GT0081",
-    "stt": 81,
+    "id": "GT0079",
+    "stt": 79,
     "grammar": "(이)나마",
     "topik": "II",
     "level": "4급",
@@ -2835,9 +2765,9 @@
     ]
   },
   {
-    "id": "GT0082",
-    "stt": 82,
-    "grammar": "(이)든(지)",
+    "id": "GT0080",
+    "stt": 80,
+    "grammar": "-든(지)",
     "topik": "II",
     "level": "2급",
     "category": "Liệt kê bổ sung & Lựa chọn",
@@ -2845,16 +2775,16 @@
     "similar": "(이)든가",
     "meaning": "Dù là... hay là (bất kể cái nào cũng đều được)",
     "structure": "N(이)든지",
-    "note": "Giống như '든지', thường viết gọn thành '(이)든' và hay kết hợp với từ để hỏi.",
+    "note": "Thường viết gọn thành '(이)든' và hay kết hợp với từ để hỏi như 누구 -> 누구든지, 언제 -> 언제든지, 무엇 -> 뭐든지.v.v",
     "examples": [
       {
         "text": "월요일이든지 화요일이든지 언제든 연락 주세요.",
-        "highlight": "월요일이든지",
+        "highlight": "월요일이든지 화요일이든지",
         "translation": "Dù là thứ Hai hay thứ Ba thì bất cứ lúc nào cũng hãy liên lạc cho tôi nha."
       },
       {
-        "text": "무엇이든지 필요한 게 있으면 말씀하세요.",
-        "highlight": "무엇이든지",
+        "text": "뭐든지 필요한 게 있으면 말씀하세요.",
+        "highlight": "뭐든지",
         "translation": "Dù là cái gì đi nữa, nếu có thứ bạn cần thì hãy nói cho tôi biết nhé."
       },
       {
@@ -2870,8 +2800,8 @@
     ]
   },
   {
-    "id": "GT0083",
-    "stt": 83,
+    "id": "GT0081",
+    "stt": 81,
     "grammar": "치고",
     "topik": "II",
     "level": "4급",
@@ -2905,8 +2835,8 @@
     ]
   },
   {
-    "id": "GT0084",
-    "stt": 84,
+    "id": "GT0082",
+    "stt": 82,
     "grammar": "-아/어/여 버리다",
     "topik": "II",
     "level": "2급",
@@ -2940,8 +2870,8 @@
     ]
   },
   {
-    "id": "GT0085",
-    "stt": 85,
+    "id": "GT0083",
+    "stt": 83,
     "grammar": "-(으)ㄴ/는 김에",
     "topik": "II",
     "level": "3급",
@@ -2975,8 +2905,8 @@
     ]
   },
   {
-    "id": "GT0086",
-    "stt": 86,
+    "id": "GT0084",
+    "stt": 84,
     "grammar": "-기에는",
     "topik": "II",
     "level": "3급",
@@ -3010,8 +2940,8 @@
     ]
   },
   {
-    "id": "GT0087",
-    "stt": 87,
+    "id": "GT0085",
+    "stt": 85,
     "grammar": "비해",
     "topik": "II",
     "level": "3급",
@@ -3045,8 +2975,8 @@
     ]
   },
   {
-    "id": "GT0088",
-    "stt": 88,
+    "id": "GT0086",
+    "stt": 86,
     "grammar": "-아/어/여 대다",
     "topik": "II",
     "level": "4급",
@@ -3080,8 +3010,8 @@
     ]
   },
   {
-    "id": "GT0089",
-    "stt": 89,
+    "id": "GT0087",
+    "stt": 87,
     "grammar": "-(으)로 인해",
     "topik": "II",
     "level": "4급",
@@ -3115,8 +3045,8 @@
     ]
   },
   {
-    "id": "GT0090",
-    "stt": 90,
+    "id": "GT0088",
+    "stt": 88,
     "grammar": "-(으)ㄹ 따름이다",
     "topik": "II",
     "level": "4급",
@@ -3150,8 +3080,8 @@
     ]
   },
   {
-    "id": "GT0091",
-    "stt": 91,
+    "id": "GT0089",
+    "stt": 89,
     "grammar": "-(으)ㄹ 수(가) 있어야지(요)",
     "topik": "II",
     "level": "4급",
@@ -3185,8 +3115,8 @@
     ]
   },
   {
-    "id": "GT0092",
-    "stt": 92,
+    "id": "GT0090",
+    "stt": 90,
     "grammar": "-느니",
     "topik": "II",
     "level": "4급",
@@ -3220,8 +3150,8 @@
     ]
   },
   {
-    "id": "GT0093",
-    "stt": 93,
+    "id": "GT0091",
+    "stt": 91,
     "grammar": "-다가는",
     "topik": "II",
     "level": "3급",
@@ -3255,44 +3185,9 @@
     ]
   },
   {
-    "id": "GT0094",
-    "stt": 94,
-    "grammar": "(으)ㄴ/는 데다가",
-    "topik": "II",
-    "level": "3급",
-    "category": "Liệt kê bổ sung & Lựa chọn",
-    "confusing": "",
-    "similar": "-(으)ㄹ 뿐만 아니라, -(으)ㄹ뿐더러, -거니와",
-    "meaning": "Không những... mà thêm vào đó còn (cùng tính chất tích cực/tiêu cực)",
-    "structure": "V-는 데다가, A-(으)ㄴ 데다가, N인 데다가",
-    "note": "Hai vế phải đồng nhất về mặt tính chất (hoặc cùng khen, hoặc cùng chê).",
-    "examples": [
-      {
-        "text": "그는 한국어도 잘하는 데다가 영어도 유창해요.",
-        "highlight": "잘하는 데다가",
-        "translation": "Anh ấy không những giỏi tiếng Hàn mà thêm vào đó tiếng Anh cũng rất lưu loát."
-      },
-      {
-        "text": "이번 시험은 문항이 많은 데다가 난이도도 높았어요.",
-        "highlight": "많은 데다가",
-        "translation": "Kỳ thi lần này không những có nhiều câu hỏi mà thêm vào đó độ khó cũng cao nữa."
-      },
-      {
-        "text": "이번 신제품은 디자인이 뛰어난 데다가 기능성까지 갖추어 높은 판매량을 기록했다.",
-        "highlight": "뛰어난 데다가",
-        "translation": "Sản phẩm mới lần này không những kiểu dáng xuất sắc mà thêm vào đó còn trang bị cả tính năng nên đã ghi nhận lượng bán ra cao."
-      },
-      {
-        "text": "바람이 많이 부는 데다가 비까지 내려서 날씨가 추워졌습니다.",
-        "highlight": "부는 데다가",
-        "translation": "Trời không những thổi nhiều gió mà thêm vào đó còn mưa nên thời tiết đã trở nên lạnh."
-      }
-    ]
-  },
-  {
-    "id": "GT0095",
-    "stt": 95,
-    "grammar": "-(으)ㄴ 채로",
+    "id": "GT0092",
+    "stt": 92,
+    "grammar": "-(으)ㄴ 채(로)",
     "topik": "II",
     "level": "3급",
     "category": "Trạng thái & Giai đoạn",
@@ -3318,15 +3213,15 @@
         "translation": "Nhiều người hiện đại đang tiếp tục sinh hoạt hàng ngày trong trạng thái cứ bỏ mặc căng thẳng như vậy."
       },
       {
-        "text": "중요한 회의가 끝난 후에도 한동안 자리에 앉은 채로 생각에 잠겼습니다.",
-        "highlight": "앉은 채로",
+        "text": "중요한 회의가 끝난 후에도 한동안 자리에 앉은 채 생각에 잠겼습니다.",
+        "highlight": "앉은 채",
         "translation": "Ngay cả khi cuộc họp quan trọng đã kết thúc, tôi vẫn ngồi nguyên tại chỗ và chìm trong suy nghĩ một lúc lâu.)"
       }
     ]
   },
   {
-    "id": "GT0096",
-    "stt": 96,
+    "id": "GT0093",
+    "stt": 93,
     "grammar": "-(으)ㄴ/는데도",
     "topik": "II",
     "level": "3급",
@@ -3360,8 +3255,8 @@
     ]
   },
   {
-    "id": "GT0097",
-    "stt": 97,
+    "id": "GT0094",
+    "stt": 94,
     "grammar": "-다니(요)",
     "topik": "II",
     "level": "3급",
@@ -3395,8 +3290,8 @@
     ]
   },
   {
-    "id": "GT0098",
-    "stt": 98,
+    "id": "GT0095",
+    "stt": 95,
     "grammar": "-더라고(요)",
     "topik": "II",
     "level": "3급",
@@ -3430,8 +3325,8 @@
     ]
   },
   {
-    "id": "GT0099",
-    "stt": 99,
+    "id": "GT0096",
+    "stt": 96,
     "grammar": "-(으)ㄹ 만하다",
     "topik": "II",
     "level": "3급",
@@ -3465,8 +3360,8 @@
     ]
   },
   {
-    "id": "GT0100",
-    "stt": 100,
+    "id": "GT0097",
+    "stt": 97,
     "grammar": "처럼",
     "topik": "II",
     "level": "1급",
@@ -3500,8 +3395,8 @@
     ]
   },
   {
-    "id": "GT0101",
-    "stt": 101,
+    "id": "GT0098",
+    "stt": 98,
     "grammar": "-(으)면 몰라도",
     "topik": "II",
     "level": "4급",
@@ -3535,8 +3430,8 @@
     ]
   },
   {
-    "id": "GT0102",
-    "stt": 102,
+    "id": "GT0099",
+    "stt": 99,
     "grammar": "-(으)ㄴ/는 척하다",
     "topik": "II",
     "level": "3급",
@@ -3570,8 +3465,8 @@
     ]
   },
   {
-    "id": "GT0103",
-    "stt": 103,
+    "id": "GT0100",
+    "stt": 100,
     "grammar": "-아/어/여 내다",
     "topik": "II",
     "level": "3급",
@@ -3600,8 +3495,8 @@
     ]
   },
   {
-    "id": "GT0104",
-    "stt": 104,
+    "id": "GT0101",
+    "stt": 101,
     "grammar": "-기 나름이다",
     "topik": "II",
     "level": "4급",
@@ -3635,8 +3530,8 @@
     ]
   },
   {
-    "id": "GT0105",
-    "stt": 105,
+    "id": "GT0102",
+    "stt": 102,
     "grammar": "-기/게 마련이다",
     "topik": "II",
     "level": "3급",
@@ -3670,8 +3565,8 @@
     ]
   },
   {
-    "id": "GT0106",
-    "stt": 106,
+    "id": "GT0103",
+    "stt": 103,
     "grammar": "-(으)ㄴ/는 법이다",
     "topik": "II",
     "level": "3급",
@@ -3705,8 +3600,8 @@
     ]
   },
   {
-    "id": "GT0107",
-    "stt": 107,
+    "id": "GT0104",
+    "stt": 104,
     "grammar": "-ㄴ/는 이상",
     "topik": "II",
     "level": "4급",
@@ -3740,8 +3635,8 @@
     ]
   },
   {
-    "id": "GT0108",
-    "stt": 108,
+    "id": "GT0105",
+    "stt": 105,
     "grammar": "은/는 고사하고",
     "topik": "II",
     "level": "5급",
@@ -3775,8 +3670,8 @@
     ]
   },
   {
-    "id": "GT0109",
-    "stt": 109,
+    "id": "GT0106",
+    "stt": 106,
     "grammar": "곤하다",
     "topik": "II",
     "level": "3급",
@@ -3810,8 +3705,8 @@
     ]
   },
   {
-    "id": "GT0110",
-    "stt": 110,
+    "id": "GT0107",
+    "stt": 107,
     "grammar": "-기에 앞서(서)",
     "topik": "II",
     "level": "5급",
@@ -3845,8 +3740,8 @@
     ]
   },
   {
-    "id": "GT0111",
-    "stt": 111,
+    "id": "GT0108",
+    "stt": 108,
     "grammar": "-(으)ㄴ/는데도 불구하고",
     "topik": "II",
     "level": "3급",
@@ -3880,8 +3775,8 @@
     ]
   },
   {
-    "id": "GT0112",
-    "stt": 112,
+    "id": "GT0109",
+    "stt": 109,
     "grammar": "-기 십상이다",
     "topik": "II",
     "level": "4급",
@@ -3915,8 +3810,78 @@
     ]
   },
   {
-    "id": "GT0113",
-    "stt": 113,
+    "id": "GT0110",
+    "stt": 110,
+    "grammar": "-기만 하면 되다",
+    "topik": "II",
+    "level": "2급",
+    "category": "Cần thiết / Điều kiện",
+    "confusing": "",
+    "similar": "-(으)면 되다, -기만 하다",
+    "meaning": "Chỉ cần... là được / Chỉ cần... là xong",
+    "structure": "V-기만 하면 되다, A-기만 하면 되다",
+    "note": "Nhấn mạnh rằng chỉ cần đáp ứng hoặc hoàn thành duy nhất một điều kiện vế trước thì những thứ khác đều không thành vấn đề.",
+    "examples": [
+      {
+        "text": "이 서류에 서명하기만 하면 됩니다.",
+        "highlight": "서명하기만 하면 됩니다",
+        "translation": "Bạn chỉ cần ký tên vào tài liệu này là được."
+      },
+      {
+        "text": "맛은 별로 중요하지 않고 건강하기만 하면 돼요.",
+        "highlight": "건강하기만 하면 돼요",
+        "translation": "Hương vị không quan trọng lắm, chỉ cần tốt cho sức khỏe là được."
+      },
+      {
+        "text": "약속 시간에 늦지 않게 도착하기만 하면 돼요.",
+        "highlight": "도착하기만 하면 돼요",
+        "translation": "Chỉ cần đến nơi không bị trễ giờ hẹn là được."
+      },
+      {
+        "text": "필요한 준비는 다 끝났으니 버튼을 누르기만 하면 돼요.",
+        "highlight": "누르기만 하면 돼요",
+        "translation": "Mọi chuẩn bị cần thiết đã xong hết rồi, chỉ cần bấm nút là được."
+      }
+    ]
+  },
+  {
+    "id": "GT0111",
+    "stt": 111,
+    "grammar": "-기만 하면",
+    "topik": "II",
+    "level": "3급",
+    "category": "Điều kiện & Giả định",
+    "confusing": "",
+    "similar": "-(으)ㄹ 때마다, -기만 하다",
+    "meaning": "Hễ... là / Chỉ cần... là",
+    "structure": "V-기만 하면, A-기만 하면",
+    "note": "Diễn tả điều kiện mà hễ hành động/trạng thái ở vế trước xảy ra thì hành động/kết quả ở vế sau chắc chắn sẽ nối tiếp theo.",
+    "examples": [
+      {
+        "text": "저는 그 음악을 듣기만 하면 고향 생각이 나요.",
+        "highlight": "듣기만 하면",
+        "translation": "Hễ nghe bản nhạc đó là tôi lại nhớ về quê hương."
+      },
+      {
+        "text": "동생은 비가 오기만 하면 기분이 우울해진다고 해요.",
+        "highlight": "오기만 하면",
+        "translation": "Em tôi nói rằng hễ trời mưa là tâm trạng lại trở nên u ủ."
+      },
+      {
+        "text": "그 사람은 만나기만 하면 싸우니까 안 만나는 게 좋아요.",
+        "highlight": "만나기만 하면",
+        "translation": "Hai người đó hễ gặp nhau là cãi nhau nên tốt nhất đừng gặp."
+      },
+      {
+        "text": "날씨가 춥기만 하면 감기에 걸리는 편이에요.",
+        "highlight": "춥기만 하면",
+        "translation": "Hễ thời tiết lạnh là tôi lại có xu hướng bị cảm cúm."
+      }
+    ]
+  },
+  {
+    "id": "GT0112",
+    "stt": 112,
     "grammar": "-기만 하다",
     "topik": "II",
     "level": "2급",
@@ -3950,14 +3915,14 @@
     ]
   },
   {
-    "id": "GT0114",
-    "stt": 114,
+    "id": "GT0113",
+    "stt": 113,
     "grammar": "-(으)ㄴ 나머지",
     "topik": "II",
     "level": "4급",
     "category": "Nguyên nhân - Kết quả",
     "confusing": "",
-    "similar": "-는 바람에, 너무 -해서",
+    "similar": "-는 바람에, 너무 -해서, -(으)ㄴ/는 탓에",
     "meaning": "Do quá... nên dẫn đến một kết quả tiêu cực",
     "structure": "V-(으)ㄴ 나머지, A-(으)ㄴ 나머지",
     "note": "Vế trước thường là từ chỉ tâm trạng, cảm xúc thái quá, vế sau là hệ quả ngoài tầm kiểm soát.",
@@ -3985,8 +3950,8 @@
     ]
   },
   {
-    "id": "GT0115",
-    "stt": 115,
+    "id": "GT0114",
+    "stt": 114,
     "grammar": "는 가운데",
     "topik": "II",
     "level": "4급",
@@ -4020,15 +3985,15 @@
     ]
   },
   {
-    "id": "GT0116",
-    "stt": 116,
+    "id": "GT0115",
+    "stt": 115,
     "grammar": "-(으)ㄴ/는/(으)ㄹ 듯하다",
     "topik": "II",
     "level": "4급",
     "category": "Phỏng đoán",
     "confusing": "",
     "similar": "-(으)ㄴ/는 것 같다, -(으)ㄴ/는 모양이다, -(으)ㄹ 성싶다",
-    "meaning": "Dường như, có vẻ như (Giống cấu trúc ở STT 69)",
+    "meaning": "Dường như, có vẻ như",
     "structure": "V-는 듯하다, A-(으)ㄴ 듯하다",
     "note": "Mang văn phong trang trọng, khách quan, xuất hiện cực kỳ phổ biến trong các bài đọc hiểu và viết TOPIK.",
     "examples": [
@@ -4055,8 +4020,8 @@
     ]
   },
   {
-    "id": "GT0117",
-    "stt": 117,
+    "id": "GT0116",
+    "stt": 116,
     "grammar": "-(으)ㄹ 법하다",
     "topik": "II",
     "level": "4급",
@@ -4090,8 +4055,8 @@
     ]
   },
   {
-    "id": "GT0118",
-    "stt": 118,
+    "id": "GT0117",
+    "stt": 117,
     "grammar": "-(으)려나 보다",
     "topik": "II",
     "level": "3급",
@@ -4125,8 +4090,8 @@
     ]
   },
   {
-    "id": "GT0119",
-    "stt": 119,
+    "id": "GT0118",
+    "stt": 118,
     "grammar": "-(으)ㄹ뿐더러",
     "topik": "II",
     "level": "4급",
@@ -4160,8 +4125,8 @@
     ]
   },
   {
-    "id": "GT0120",
-    "stt": 120,
+    "id": "GT0119",
+    "stt": 119,
     "grammar": "(이)라든가",
     "topik": "II",
     "level": "3급",
@@ -4195,8 +4160,8 @@
     ]
   },
   {
-    "id": "GT0121",
-    "stt": 121,
+    "id": "GT0120",
+    "stt": 120,
     "grammar": "-건대",
     "topik": "II",
     "level": "6급",
@@ -4230,8 +4195,8 @@
     ]
   },
   {
-    "id": "GT0122",
-    "stt": 122,
+    "id": "GT0121",
+    "stt": 121,
     "grammar": "-건만",
     "topik": "II",
     "level": "6급",
@@ -4265,8 +4230,8 @@
     ]
   },
   {
-    "id": "GT0123",
-    "stt": 123,
+    "id": "GT0122",
+    "stt": 122,
     "grammar": "-자면",
     "topik": "II",
     "level": "4급",
@@ -4300,8 +4265,8 @@
     ]
   },
   {
-    "id": "GT0124",
-    "stt": 124,
+    "id": "GT0123",
+    "stt": 123,
     "grammar": "-(느/으)니만큼",
     "topik": "II",
     "level": "6급",
@@ -4335,8 +4300,8 @@
     ]
   },
   {
-    "id": "GT0125",
-    "stt": 125,
+    "id": "GT0124",
+    "stt": 124,
     "grammar": "-(으)련마는",
     "topik": "II",
     "level": "6급",
@@ -4370,8 +4335,8 @@
     ]
   },
   {
-    "id": "GT0126",
-    "stt": 126,
+    "id": "GT0125",
+    "stt": 125,
     "grammar": "-기 일쑤이다",
     "topik": "II",
     "level": "6급",
@@ -4405,8 +4370,8 @@
     ]
   },
   {
-    "id": "GT0127",
-    "stt": 127,
+    "id": "GT0126",
+    "stt": 126,
     "grammar": "-(으)ㄴ/는/(으)ㄹ 바에(는)",
     "topik": "II",
     "level": "6급",
@@ -4440,8 +4405,8 @@
     ]
   },
   {
-    "id": "GT0128",
-    "stt": 128,
+    "id": "GT0127",
+    "stt": 127,
     "grammar": "는 한이 있어도",
     "topik": "II",
     "level": "6급",
@@ -4470,8 +4435,8 @@
     ]
   },
   {
-    "id": "GT0129",
-    "stt": 129,
+    "id": "GT0128",
+    "stt": 128,
     "grammar": "을/를 막론하고",
     "topik": "II",
     "level": "6급",
@@ -4505,8 +4470,8 @@
     ]
   },
   {
-    "id": "GT0130",
-    "stt": 130,
+    "id": "GT0129",
+    "stt": 129,
     "grammar": "-기 짝이 없다",
     "topik": "II",
     "level": "6급",
@@ -4540,8 +4505,8 @@
     ]
   },
   {
-    "id": "GT0131",
-    "stt": 131,
+    "id": "GT0130",
+    "stt": 130,
     "grammar": "-(으)ㄴ/는 마당에",
     "topik": "II",
     "level": "6급",
@@ -4575,8 +4540,8 @@
     ]
   },
   {
-    "id": "GT0132",
-    "stt": 132,
+    "id": "GT0131",
+    "stt": 131,
     "grammar": "-(으)ㄹ라치면",
     "topik": "II",
     "level": "6급",
@@ -4610,8 +4575,8 @@
     ]
   },
   {
-    "id": "GT0133",
-    "stt": 133,
+    "id": "GT0132",
+    "stt": 132,
     "grammar": "-노라면",
     "topik": "II",
     "level": "6급",
@@ -4645,8 +4610,8 @@
     ]
   },
   {
-    "id": "GT0134",
-    "stt": 134,
+    "id": "GT0133",
+    "stt": 133,
     "grammar": "-거늘",
     "topik": "II",
     "level": "6급",
@@ -4680,8 +4645,8 @@
     ]
   },
   {
-    "id": "GT0135",
-    "stt": 135,
+    "id": "GT0134",
+    "stt": 134,
     "grammar": "-게끔",
     "topik": "II",
     "level": "5급",
@@ -4715,8 +4680,8 @@
     ]
   },
   {
-    "id": "GT0136",
-    "stt": 136,
+    "id": "GT0135",
+    "stt": 135,
     "grammar": "-았/었/였던들",
     "topik": "II",
     "level": "5급",
@@ -4750,8 +4715,8 @@
     ]
   },
   {
-    "id": "GT0137",
-    "stt": 137,
+    "id": "GT0136",
+    "stt": 136,
     "grammar": "-(으)ㄴ즉",
     "topik": "II",
     "level": "5급",
@@ -4785,8 +4750,8 @@
     ]
   },
   {
-    "id": "GT0138",
-    "stt": 138,
+    "id": "GT0137",
+    "stt": 137,
     "grammar": "-(으)ㄹ세라",
     "topik": "II",
     "level": "5급",
@@ -4820,8 +4785,8 @@
     ]
   },
   {
-    "id": "GT0139",
-    "stt": 139,
+    "id": "GT0138",
+    "stt": 138,
     "grammar": "-(으)ㄹ진대",
     "topik": "II",
     "level": "5급",
@@ -4855,8 +4820,8 @@
     ]
   },
   {
-    "id": "GT0140",
-    "stt": 140,
+    "id": "GT0139",
+    "stt": 139,
     "grammar": "-(으)려니와",
     "topik": "II",
     "level": "5급",
@@ -4890,8 +4855,8 @@
     ]
   },
   {
-    "id": "GT0141",
-    "stt": 141,
+    "id": "GT0140",
+    "stt": 140,
     "grammar": "-(으)ㄹ걸 그랬다",
     "topik": "II",
     "level": "2급",
@@ -4925,8 +4890,8 @@
     ]
   },
   {
-    "id": "GT0142",
-    "stt": 142,
+    "id": "GT0141",
+    "stt": 141,
     "grammar": "(이)야",
     "topik": "II",
     "level": "4급",
@@ -4960,8 +4925,8 @@
     ]
   },
   {
-    "id": "GT0143",
-    "stt": 143,
+    "id": "GT0142",
+    "stt": 142,
     "grammar": "-(으)ㄴ/는(으)ㄹ 경우에",
     "topik": "II",
     "level": "2급",
@@ -4995,8 +4960,8 @@
     ]
   },
   {
-    "id": "GT0144",
-    "stt": 144,
+    "id": "GT0143",
+    "stt": 143,
     "grammar": "-ㄴ/는다손 치더라도",
     "topik": "II",
     "level": "6급",
@@ -5025,8 +4990,8 @@
     ]
   },
   {
-    "id": "GT0145",
-    "stt": 145,
+    "id": "GT0144",
+    "stt": 144,
     "grammar": "-(으)려고 들다",
     "topik": "II",
     "level": "5급",
@@ -5060,8 +5025,8 @@
     ]
   },
   {
-    "id": "GT0146",
-    "stt": 146,
+    "id": "GT0145",
+    "stt": 145,
     "grammar": "-(으)로 말미암아",
     "topik": "II",
     "level": "5급",
@@ -5070,7 +5035,7 @@
     "similar": "-(으)로 인해, -기 때문에, -(으)로",
     "meaning": "Do, bởi vì, nguồn gốc từ (Dẫn đến một hậu quả mang tính trọng đại)",
     "structure": "N(으)로 말미암아",
-    "note": "Là cấu trúc viết học thuật tương tự STT 61, dùng làm rõ nguyên nhân sâu xa của vấn đề.",
+    "note": "Là cấu trúc viết học thuật, dùng làm rõ nguyên nhân sâu xa của vấn đề.",
     "examples": [
       {
         "text": "사소한 오해로 말미암아 친구와 사이가 서먹해졌어요.",
@@ -5095,8 +5060,8 @@
     ]
   },
   {
-    "id": "GT0147",
-    "stt": 147,
+    "id": "GT0146",
+    "stt": 146,
     "grammar": "-기(가) 이를 데 없다",
     "topik": "II",
     "level": "5급",
@@ -5130,8 +5095,8 @@
     ]
   },
   {
-    "id": "GT0148",
-    "stt": 148,
+    "id": "GT0147",
+    "stt": 147,
     "grammar": "-(으)ㄹ 성싶다",
     "topik": "II",
     "level": "5급",
@@ -5165,8 +5130,8 @@
     ]
   },
   {
-    "id": "GT0149",
-    "stt": 149,
+    "id": "GT0148",
+    "stt": 148,
     "grammar": "-(으)ㄴ/는 감이 있다",
     "topik": "II",
     "level": "4급",
@@ -5200,8 +5165,8 @@
     ]
   },
   {
-    "id": "GT0150",
-    "stt": 150,
+    "id": "GT0149",
+    "stt": 149,
     "grammar": "-만 해도",
     "topik": "II",
     "level": "3급",
@@ -5235,8 +5200,8 @@
     ]
   },
   {
-    "id": "GT0151",
-    "stt": 151,
+    "id": "GT0150",
+    "stt": 150,
     "grammar": "-다마는",
     "topik": "II",
     "level": "5급",
@@ -5270,8 +5235,8 @@
     ]
   },
   {
-    "id": "GT0152",
-    "stt": 152,
+    "id": "GT0151",
+    "stt": 151,
     "grammar": "-았/었/였더라면",
     "topik": "II",
     "level": "3급",
@@ -5305,8 +5270,8 @@
     ]
   },
   {
-    "id": "GT0153",
-    "stt": 153,
+    "id": "GT0152",
+    "stt": 152,
     "grammar": "-(으)ㄹ 뿐만 아니라",
     "topik": "II",
     "level": "3급",
@@ -5340,8 +5305,8 @@
     ]
   },
   {
-    "id": "GT0154",
-    "stt": 154,
+    "id": "GT0153",
+    "stt": 153,
     "grammar": "(으)려거든",
     "topik": "II",
     "level": "3급",
@@ -5375,8 +5340,8 @@
     ]
   },
   {
-    "id": "GT0155",
-    "stt": 155,
+    "id": "GT0154",
+    "stt": 154,
     "grammar": "-(이)랍시고",
     "topik": "II",
     "level": "4급",
@@ -5410,8 +5375,8 @@
     ]
   },
   {
-    "id": "GT0156",
-    "stt": 156,
+    "id": "GT0155",
+    "stt": 155,
     "grammar": "-(으)ㄹ 리가 없다",
     "topik": "II",
     "level": "2급",
@@ -5445,8 +5410,8 @@
     ]
   },
   {
-    "id": "GT0157",
-    "stt": 157,
+    "id": "GT0156",
+    "stt": 156,
     "grammar": "-ㄴ/는다든지",
     "topik": "II",
     "level": "4급",
@@ -5480,8 +5445,8 @@
     ]
   },
   {
-    "id": "GT0158",
-    "stt": 158,
+    "id": "GT0157",
+    "stt": 157,
     "grammar": "-(으)랴 -(으)랴",
     "topik": "II",
     "level": "4급",
@@ -5515,8 +5480,8 @@
     ]
   },
   {
-    "id": "GT0159",
-    "stt": 159,
+    "id": "GT0158",
+    "stt": 158,
     "grammar": "는 둥 마는 둥 (하다)",
     "topik": "II",
     "level": "4급",
@@ -5550,8 +5515,8 @@
     ]
   },
   {
-    "id": "GT0160",
-    "stt": 160,
+    "id": "GT0159",
+    "stt": 159,
     "grammar": "-(으)려야 -(으)ㄹ 수가 없다",
     "topik": "II",
     "level": "4급",
@@ -5585,8 +5550,8 @@
     ]
   },
   {
-    "id": "GT0161",
-    "stt": 161,
+    "id": "GT0160",
+    "stt": 160,
     "grammar": "-ㄴ/는댔자",
     "topik": "II",
     "level": "4급",
@@ -5620,8 +5585,8 @@
     ]
   },
   {
-    "id": "GT0162",
-    "stt": 162,
+    "id": "GT0161",
+    "stt": 161,
     "grammar": "-(으)ㄹ락 말락 하다",
     "topik": "II",
     "level": "4급",
@@ -5655,8 +5620,8 @@
     ]
   },
   {
-    "id": "GT0163",
-    "stt": 163,
+    "id": "GT0162",
+    "stt": 162,
     "grammar": "-(으)려고 하다",
     "topik": "II",
     "level": "1급",
@@ -5690,8 +5655,8 @@
     ]
   },
   {
-    "id": "GT0164",
-    "stt": 164,
+    "id": "GT0163",
+    "stt": 163,
     "grammar": "-(으)ㅂ시다",
     "topik": "II",
     "level": "1급",
@@ -5725,43 +5690,8 @@
     ]
   },
   {
-    "id": "GT0165",
-    "stt": 165,
-    "grammar": "-다가 보면",
-    "topik": "II",
-    "level": "3급",
-    "category": "Điều kiện & Giả định",
-    "confusing": "",
-    "similar": "-다 보면, 꾸준히 -하다 보면",
-    "meaning": "Nếu cứ liên tục làm gì đó thì dần dần (nhận ra/dẫn đến kết quả)",
-    "structure": "V-다가 보면",
-    "note": "Diễn tả việc nếu giả định hành động ở vế trước cứ tiếp diễn thì vế sau chắc chắn xảy ra.",
-    "examples": [
-      {
-        "text": "한국어 신문을 매일 읽다가 보면 어휘력이 자연스럽게 늘어요.",
-        "highlight": "읽다가 보면",
-        "translation": "Nếu cứ liên tục đọc báo tiếng Hàn mỗi ngày thì vốn từ vựng sẽ tăng lên một cách tự nhiên."
-      },
-      {
-        "text": "꾸준히 연습하다가 보면 언젠가는 유창하게 말할 수 있어요.",
-        "highlight": "연습하다가 보면",
-        "translation": "Nếu cứ liên tục luyện tập đều đặn thì một ngày nào đó bạn có thể nói chuyện lưu loát."
-      },
-      {
-        "text": "기술 개발을 꾸준히 추진하다가 보면 예상치 못한 혁신적인 성과를 얻게 된다.",
-        "highlight": "추진하다가 보면",
-        "translation": "Nếu cứ liên tục thúc đẩy phát triển công nghệ thì dần dần sẽ nhận được thành quả đổi mới không ngờ tới."
-      },
-      {
-        "text": "한국어로 자주 대화하다가 보면 실력이 자연스럽게 늘 것입니다.",
-        "highlight": "대화하다가 보면",
-        "translation": "Nếu cứ liên tục trò chuyện bằng tiếng Hàn thường xuyên thì thực lực sẽ tự nhiên tăng lên."
-      }
-    ]
-  },
-  {
-    "id": "GT0166",
-    "stt": 166,
+    "id": "GT0164",
+    "stt": 164,
     "grammar": "-아/어/여서 그런지",
     "topik": "II",
     "level": "3급",
@@ -5795,8 +5725,8 @@
     ]
   },
   {
-    "id": "GT0167",
-    "stt": 167,
+    "id": "GT0165",
+    "stt": 165,
     "grammar": "-(으)ㄹ까봐(서)",
     "topik": "II",
     "level": "3급",
@@ -5830,8 +5760,8 @@
     ]
   },
   {
-    "id": "GT0168",
-    "stt": 168,
+    "id": "GT0166",
+    "stt": 166,
     "grammar": "-(으)려던 참이다",
     "topik": "II",
     "level": "3급",
@@ -5865,8 +5795,8 @@
     ]
   },
   {
-    "id": "GT0169",
-    "stt": 169,
+    "id": "GT0167",
+    "stt": 167,
     "grammar": "는 수가 있다",
     "topik": "II",
     "level": "3급",
@@ -5900,8 +5830,8 @@
     ]
   },
   {
-    "id": "GT0170",
-    "stt": 170,
+    "id": "GT0168",
+    "stt": 168,
     "grammar": "-(으)ㄹ까 말까 생각 중이다",
     "topik": "II",
     "level": "3급",
@@ -5935,8 +5865,8 @@
     ]
   },
   {
-    "id": "GT0171",
-    "stt": 171,
+    "id": "GT0169",
+    "stt": 169,
     "grammar": "-(으)ㄹ 테지만",
     "topik": "II",
     "level": "4급",
@@ -5970,8 +5900,8 @@
     ]
   },
   {
-    "id": "GT0172",
-    "stt": 172,
+    "id": "GT0170",
+    "stt": 170,
     "grammar": "-기도 하고 -기도 하다",
     "topik": "II",
     "level": "3급",
@@ -6005,8 +5935,8 @@
     ]
   },
   {
-    "id": "GT0173",
-    "stt": 173,
+    "id": "GT0171",
+    "stt": 171,
     "grammar": "-는 것이 (더) 좋다",
     "topik": "II",
     "level": "2급",
@@ -6040,8 +5970,8 @@
     ]
   },
   {
-    "id": "GT0174",
-    "stt": 174,
+    "id": "GT0172",
+    "stt": 172,
     "grammar": "-(으)ㄹ 양으로",
     "topik": "II",
     "level": "5급",
@@ -6075,8 +6005,8 @@
     ]
   },
   {
-    "id": "GT0175",
-    "stt": 175,
+    "id": "GT0173",
+    "stt": 173,
     "grammar": "-(으)ㄹ 지경이다",
     "topik": "II",
     "level": "4급",
@@ -6110,43 +6040,8 @@
     ]
   },
   {
-    "id": "GT0176",
-    "stt": 176,
-    "grammar": "(으)ㄹ게 뻔하다",
-    "topik": "II",
-    "level": "4급",
-    "category": "Phỏng đoán",
-    "confusing": "",
-    "similar": "틀림없이 -(으)ㄹ 것이다, 분명히 -(으)ㄹ 것이다",
-    "meaning": "Biết ngay là sẽ... / Chắc chắn hiển nhiên sẽ (kết quả xấu)",
-    "structure": "V/A-(으)ㄹ 게 뻔하다",
-    "note": "Đi kèm suy đoán mang tính khẳng định tuyệt đối dựa trên căn cứ rõ ràng, thường hướng tới kết quả tiêu cực.",
-    "examples": [
-      {
-        "text": "공부를 안 했으니 이번 시험 결과가 안 좋을 게 뻔해요.",
-        "highlight": "안 좋을 게 뻔해요",
-        "translation": "Không chịu học hành gì thì biết ngay là kết quả kỳ thi lần này sẽ tồi tệ rồi mà."
-      },
-      {
-        "text": "준비가 부족하면 실전에서 실수를 할 게 뻔합니다.",
-        "highlight": "할 게 뻔합니다",
-        "translation": "Nếu sự chuẩn bị còn thiếu sót thì chắc chắn hiển nhiên sẽ phạm sai lầm khi thi thật."
-      },
-      {
-        "text": "충분한 검증 없이 신제품을 출시하면 소비자 불만이 폭주할 게 뻔하다.",
-        "highlight": "폭주할 게 뻔하다",
-        "translation": "Nếu ra mắt sản phẩm mới mà không kiểm chứng đầy đủ thì chắc chắn hiển nhiên sự bất mãn của người tiêu dùng sẽ bùng nổ."
-      },
-      {
-        "text": "약속 시간에 늦게 출발했으니 친구에게 혼날 게 뻔합니다.",
-        "highlight": "혼날 게 뻔합니다",
-        "translation": "Vì xuất phát trễ giờ hẹn nên biết ngay là sẽ bị bạn mắng."
-      }
-    ]
-  },
-  {
-    "id": "GT0177",
-    "stt": 177,
+    "id": "GT0174",
+    "stt": 174,
     "grammar": "-(으)ㄴ/는 셈이다",
     "topik": "II",
     "level": "3급",
@@ -6180,8 +6075,8 @@
     ]
   },
   {
-    "id": "GT0178",
-    "stt": 178,
+    "id": "GT0175",
+    "stt": 175,
     "grammar": "-게 되어 있다",
     "topik": "II",
     "level": "3급",
@@ -6215,8 +6110,8 @@
     ]
   },
   {
-    "id": "GT0179",
-    "stt": 179,
+    "id": "GT0176",
+    "stt": 176,
     "grammar": "-기 쉽다",
     "topik": "II",
     "level": "2급",
@@ -6250,8 +6145,8 @@
     ]
   },
   {
-    "id": "GT0180",
-    "stt": 180,
+    "id": "GT0177",
+    "stt": 177,
     "grammar": "-기는요",
     "topik": "II",
     "level": "3급",
@@ -6285,8 +6180,8 @@
     ]
   },
   {
-    "id": "GT0181",
-    "stt": 181,
+    "id": "GT0178",
+    "stt": 178,
     "grammar": "-다시피 하다",
     "topik": "II",
     "level": "4급",
@@ -6320,8 +6215,8 @@
     ]
   },
   {
-    "id": "GT0182",
-    "stt": 182,
+    "id": "GT0179",
+    "stt": 179,
     "grammar": "-에 관해서",
     "topik": "II",
     "level": "3급",
@@ -6355,8 +6250,8 @@
     ]
   },
   {
-    "id": "GT0183",
-    "stt": 183,
+    "id": "GT0180",
+    "stt": 180,
     "grammar": "-에 달하다 / -에 이르다",
     "topik": "II",
     "level": "4급",
@@ -6390,8 +6285,8 @@
     ]
   },
   {
-    "id": "GT0184",
-    "stt": 184,
+    "id": "GT0181",
+    "stt": 181,
     "grammar": "-을/를 차지하다",
     "topik": "II",
     "level": "4급",
@@ -6425,8 +6320,8 @@
     ]
   },
   {
-    "id": "GT0185",
-    "stt": 185,
+    "id": "GT0182",
+    "stt": 182,
     "grammar": "-에 불과하다",
     "topik": "II",
     "level": "4급",
@@ -6460,8 +6355,8 @@
     ]
   },
   {
-    "id": "GT0186",
-    "stt": 186,
+    "id": "GT0183",
+    "stt": 183,
     "grammar": "-기 싫다",
     "topik": "II",
     "level": "1급",
@@ -6495,15 +6390,15 @@
     ]
   },
   {
-    "id": "GT0187",
-    "stt": 187,
+    "id": "GT0184",
+    "stt": 184,
     "grammar": "-을까 말까",
     "topik": "II",
     "level": "2급",
     "category": "Liệt kê bổ sung & Lựa chọn",
     "confusing": "",
     "similar": "-(으)ㄹ까 하다",
-    "meaning": "Có nên làm hay không (Dạng rút gọn của STT 146)",
+    "meaning": "Có nên làm hay không",
     "structure": "V-(으)ㄹ까 말까",
     "note": "Có thể đứng độc lập làm định ngữ hoặc kết hợp với các động từ tâm lý như '망설이다', '고민하다'.",
     "examples": [
@@ -6530,8 +6425,8 @@
     ]
   },
   {
-    "id": "GT0188",
-    "stt": 188,
+    "id": "GT0185",
+    "stt": 185,
     "grammar": "-기에 좋다",
     "topik": "II",
     "level": "3급",
@@ -6565,15 +6460,15 @@
     ]
   },
   {
-    "id": "GT0189",
-    "stt": 189,
+    "id": "GT0186",
+    "stt": 186,
     "grammar": "-ㄴ/는 감이 있다",
     "topik": "II",
     "level": "3급",
     "category": "Đánh giá",
     "confusing": "",
     "similar": "-는 편이다",
-    "meaning": "Có xu hướng hơi bị... (Đồng dạng với cấu trúc ở STT 168)",
+    "meaning": "Có xu hướng hơi bị...",
     "structure": "V-는 감이 있다",
     "note": "Là phiên bản đi với động từ ở thì hiện tại của cấu trúc nhận xét tính chất '-(으)ㄴ 감이 있다'.",
     "examples": [
@@ -6600,8 +6495,8 @@
     ]
   },
   {
-    "id": "GT0190",
-    "stt": 190,
+    "id": "GT0187",
+    "stt": 187,
     "grammar": "-에/에게 달려 있다",
     "topik": "II",
     "level": "4급",
@@ -6635,8 +6530,8 @@
     ]
   },
   {
-    "id": "GT0191",
-    "stt": 191,
+    "id": "GT0188",
+    "stt": 188,
     "grammar": "스럽다",
     "topik": "II",
     "level": "2급",
@@ -6670,8 +6565,8 @@
     ]
   },
   {
-    "id": "GT0192",
-    "stt": 192,
+    "id": "GT0189",
+    "stt": 189,
     "grammar": "답다",
     "topik": "II",
     "level": "2급",
@@ -6705,8 +6600,8 @@
     ]
   },
   {
-    "id": "GT0193",
-    "stt": 193,
+    "id": "GT0190",
+    "stt": 190,
     "grammar": "(이)야말로",
     "topik": "II",
     "level": "3급",
@@ -6740,15 +6635,15 @@
     ]
   },
   {
-    "id": "GT0194",
-    "stt": 194,
+    "id": "GT0191",
+    "stt": 191,
     "grammar": "아/어야",
     "topik": "II",
     "level": "2급",
     "category": "Điều kiện & Giả định",
     "confusing": "",
     "similar": "-아/어야만, -지 않으면 안 되다",
-    "meaning": "Phải... thì mới (Dạng viết gọn của cấu trúc ở STT 2)",
+    "meaning": "Phải... thì mới",
     "structure": "V/A-아/어/여야",
     "note": "Khẳng định vế trước là điều kiện bắt buộc, có vế trước thì vế sau mới khả thi.",
     "examples": [
@@ -6775,8 +6670,8 @@
     ]
   },
   {
-    "id": "GT0195",
-    "stt": 195,
+    "id": "GT0192",
+    "stt": 192,
     "grammar": "V,A을/ㄹ 거면",
     "topik": "II",
     "level": "3급",
@@ -6810,8 +6705,8 @@
     ]
   },
   {
-    "id": "GT0196",
-    "stt": 196,
+    "id": "GT0193",
+    "stt": 193,
     "grammar": "V,A거든 - N(이)거든",
     "topik": "II",
     "level": "3급",
@@ -6845,8 +6740,8 @@
     ]
   },
   {
-    "id": "GT0197",
-    "stt": 197,
+    "id": "GT0194",
+    "stt": 194,
     "grammar": "-(으)ㄴ 셈 치다",
     "topik": "II",
     "level": "4급",
@@ -6880,8 +6775,8 @@
     ]
   },
   {
-    "id": "GT0198",
-    "stt": 198,
+    "id": "GT0195",
+    "stt": 195,
     "grammar": "-ㄴ/는다고 치다",
     "topik": "II",
     "level": "4급",
@@ -6915,8 +6810,8 @@
     ]
   },
   {
-    "id": "GT0199",
-    "stt": 199,
+    "id": "GT0196",
+    "stt": 196,
     "grammar": "-는 한",
     "topik": "II",
     "level": "4급",
@@ -6950,8 +6845,8 @@
     ]
   },
   {
-    "id": "GT0200",
-    "stt": 200,
+    "id": "GT0197",
+    "stt": 197,
     "grammar": "-자니",
     "topik": "II",
     "level": "4급",
@@ -6985,8 +6880,8 @@
     ]
   },
   {
-    "id": "GT0201",
-    "stt": 201,
+    "id": "GT0198",
+    "stt": 198,
     "grammar": "-더라(고요)",
     "topik": "II",
     "level": "3급",
@@ -7020,8 +6915,8 @@
     ]
   },
   {
-    "id": "GT0202",
-    "stt": 202,
+    "id": "GT0199",
+    "stt": 199,
     "grammar": "-(으)ㄴ 데다가",
     "topik": "II",
     "level": "3급",
@@ -7055,8 +6950,8 @@
     ]
   },
   {
-    "id": "GT0203",
-    "stt": 203,
+    "id": "GT0200",
+    "stt": 200,
     "grammar": "-는 한편",
     "topik": "II",
     "level": "4급",
@@ -7090,8 +6985,8 @@
     ]
   },
   {
-    "id": "GT0204",
-    "stt": 204,
+    "id": "GT0201",
+    "stt": 201,
     "grammar": "아무나 / 아무도",
     "topik": "II",
     "level": "2급",
@@ -7125,8 +7020,8 @@
     ]
   },
   {
-    "id": "GT0205",
-    "stt": 205,
+    "id": "GT0202",
+    "stt": 202,
     "grammar": "-아/어서는 안 되다",
     "topik": "II",
     "level": "3급",
@@ -7160,8 +7055,8 @@
     ]
   },
   {
-    "id": "GT0206",
-    "stt": 206,
+    "id": "GT0203",
+    "stt": 203,
     "grammar": "-아/어야지요",
     "topik": "II",
     "level": "3급",
@@ -7195,8 +7090,8 @@
     ]
   },
   {
-    "id": "GT0207",
-    "stt": 207,
+    "id": "GT0204",
+    "stt": 204,
     "grammar": "-지 말아야 하다",
     "topik": "II",
     "level": "3급",
@@ -7230,8 +7125,8 @@
     ]
   },
   {
-    "id": "GT0208",
-    "stt": 208,
+    "id": "GT0205",
+    "stt": 205,
     "grammar": "-지 않으면 안 되다",
     "topik": "II",
     "level": "3급",
@@ -7265,8 +7160,8 @@
     ]
   },
   {
-    "id": "GT0209",
-    "stt": 209,
+    "id": "GT0206",
+    "stt": 206,
     "grammar": "-아/어라",
     "topik": "II",
     "level": "3급",
@@ -7300,8 +7195,8 @@
     ]
   },
   {
-    "id": "GT0210",
-    "stt": 210,
+    "id": "GT0207",
+    "stt": 207,
     "grammar": "-(으)ㄹ 겸",
     "topik": "II",
     "level": "3급",
@@ -7335,8 +7230,8 @@
     ]
   },
   {
-    "id": "GT0211",
-    "stt": 211,
+    "id": "GT0208",
+    "stt": 208,
     "grammar": "-(으)ㄹ 예정이다",
     "topik": "II",
     "level": "3급",
@@ -7370,8 +7265,8 @@
     ]
   },
   {
-    "id": "GT0212",
-    "stt": 212,
+    "id": "GT0209",
+    "stt": 209,
     "grammar": "-(으)ㄹ 테니까",
     "topik": "II",
     "level": "3급",
@@ -7405,8 +7300,8 @@
     ]
   },
   {
-    "id": "GT0213",
-    "stt": 213,
+    "id": "GT0210",
+    "stt": 210,
     "grammar": "-(으)려다가",
     "topik": "II",
     "level": "3급",
@@ -7440,8 +7335,8 @@
     ]
   },
   {
-    "id": "GT0214",
-    "stt": 214,
+    "id": "GT0211",
+    "stt": 211,
     "grammar": "-게끔 하다",
     "topik": "II",
     "level": "4급",
@@ -7475,8 +7370,8 @@
     ]
   },
   {
-    "id": "GT0215",
-    "stt": 215,
+    "id": "GT0212",
+    "stt": 212,
     "grammar": "-고 말겠다",
     "topik": "II",
     "level": "3급",
@@ -7510,8 +7405,8 @@
     ]
   },
   {
-    "id": "GT0216",
-    "stt": 216,
+    "id": "GT0213",
+    "stt": 213,
     "grammar": "-고자 하다",
     "topik": "II",
     "level": "4급",
@@ -7545,8 +7440,8 @@
     ]
   },
   {
-    "id": "GT0217",
-    "stt": 217,
+    "id": "GT0214",
+    "stt": 214,
     "grammar": "-도록 하세요",
     "topik": "II",
     "level": "3급",
@@ -7580,8 +7475,8 @@
     ]
   },
   {
-    "id": "GT0218",
-    "stt": 218,
+    "id": "GT0215",
+    "stt": 215,
     "grammar": "-도록 하겠습니다",
     "topik": "II",
     "level": "3급",
@@ -7615,8 +7510,8 @@
     ]
   },
   {
-    "id": "GT0219",
-    "stt": 219,
+    "id": "GT0216",
+    "stt": 216,
     "grammar": "-ㄹ/을까 해서",
     "topik": "II",
     "level": "3급",
@@ -7650,8 +7545,8 @@
     ]
   },
   {
-    "id": "GT0220",
-    "stt": 220,
+    "id": "GT0217",
+    "stt": 217,
     "grammar": "-아/어야겠다",
     "topik": "II",
     "level": "3급",
@@ -7685,8 +7580,8 @@
     ]
   },
   {
-    "id": "GT0221",
-    "stt": 221,
+    "id": "GT0218",
+    "stt": 218,
     "grammar": "-을까 하다",
     "topik": "II",
     "level": "3급",
@@ -7720,8 +7615,8 @@
     ]
   },
   {
-    "id": "GT0222",
-    "stt": 222,
+    "id": "GT0219",
+    "stt": 219,
     "grammar": "-고도 남다",
     "topik": "II",
     "level": "5급",
@@ -7755,8 +7650,8 @@
     ]
   },
   {
-    "id": "GT0223",
-    "stt": 223,
+    "id": "GT0220",
+    "stt": 220,
     "grammar": "만 하다",
     "topik": "II",
     "level": "3급",
@@ -7790,8 +7685,8 @@
     ]
   },
   {
-    "id": "GT0224",
-    "stt": 224,
+    "id": "GT0221",
+    "stt": 221,
     "grammar": "-(으)ㄴ 결과",
     "topik": "II",
     "level": "4급",
@@ -7825,8 +7720,8 @@
     ]
   },
   {
-    "id": "GT0225",
-    "stt": 225,
+    "id": "GT0222",
+    "stt": 222,
     "grammar": "-(으)ㄴ지라",
     "topik": "II",
     "level": "5급",
@@ -7860,8 +7755,8 @@
     ]
   },
   {
-    "id": "GT0226",
-    "stt": 226,
+    "id": "GT0223",
+    "stt": 223,
     "grammar": "-길래",
     "topik": "II",
     "level": "3급",
@@ -7895,8 +7790,8 @@
     ]
   },
   {
-    "id": "GT0227",
-    "stt": 227,
+    "id": "GT0224",
+    "stt": 224,
     "grammar": "-ㄴ/는다고 해서",
     "topik": "II",
     "level": "3급",
@@ -7930,8 +7825,8 @@
     ]
   },
   {
-    "id": "GT0228",
-    "stt": 228,
+    "id": "GT0225",
+    "stt": 225,
     "grammar": "-더니",
     "topik": "II",
     "level": "3급",
@@ -7965,8 +7860,8 @@
     ]
   },
   {
-    "id": "GT0229",
-    "stt": 229,
+    "id": "GT0226",
+    "stt": 226,
     "grammar": "-더니만",
     "topik": "II",
     "level": "4급",
@@ -8000,8 +7895,8 @@
     ]
   },
   {
-    "id": "GT0230",
-    "stt": 230,
+    "id": "GT0227",
+    "stt": 227,
     "grammar": "-아/어 가지고",
     "topik": "II",
     "level": "3급",
@@ -8035,8 +7930,8 @@
     ]
   },
   {
-    "id": "GT0231",
-    "stt": 231,
+    "id": "GT0228",
+    "stt": 228,
     "grammar": "-에 의해(서)",
     "topik": "II",
     "level": "4급",
@@ -8070,8 +7965,8 @@
     ]
   },
   {
-    "id": "GT0232",
-    "stt": 232,
+    "id": "GT0229",
+    "stt": 229,
     "grammar": "-(으)ㄴ데도 (불구하고)",
     "topik": "II",
     "level": "4급",
@@ -8105,8 +8000,8 @@
     ]
   },
   {
-    "id": "GT0233",
-    "stt": 233,
+    "id": "GT0230",
+    "stt": 230,
     "grammar": "-(으)나 마나",
     "topik": "II",
     "level": "3급",
@@ -8140,8 +8035,8 @@
     ]
   },
   {
-    "id": "GT0234",
-    "stt": 234,
+    "id": "GT0231",
+    "stt": 231,
     "grammar": "-(으)ㄹ지라도",
     "topik": "II",
     "level": "4급",
@@ -8175,8 +8070,8 @@
     ]
   },
   {
-    "id": "GT0235",
-    "stt": 235,
+    "id": "GT0232",
+    "stt": 232,
     "grammar": "-아/어 봐야",
     "topik": "II",
     "level": "4급",
@@ -8210,8 +8105,8 @@
     ]
   },
   {
-    "id": "GT0236",
-    "stt": 236,
+    "id": "GT0233",
+    "stt": 233,
     "grammar": "-아/어 봤자",
     "topik": "II",
     "level": "3급",
@@ -8245,8 +8140,8 @@
     ]
   },
   {
-    "id": "GT0237",
-    "stt": 237,
+    "id": "GT0234",
+    "stt": 234,
     "grammar": "-(으)ㄴ/는 걸 보면",
     "topik": "II",
     "level": "3급",
@@ -8280,8 +8175,8 @@
     ]
   },
   {
-    "id": "GT0238",
-    "stt": 238,
+    "id": "GT0235",
+    "stt": 235,
     "grammar": "-(으)ㄴ/는 게 틀림없다",
     "topik": "II",
     "level": "3급",
@@ -8315,43 +8210,8 @@
     ]
   },
   {
-    "id": "GT0239",
-    "stt": 239,
-    "grammar": "-(으)ㄴ/는 모양이다",
-    "topik": "II",
-    "level": "3급",
-    "category": "Phỏng đoán",
-    "confusing": "",
-    "similar": "-(으)ㄴ/는 것 같다, 는 듯하다, -ㄴ가 보다",
-    "meaning": "Có vẻ như là",
-    "structure": "V-는 모양이다, A-(으)ㄴ 모양이다",
-    "note": "Phỏng đoán gián tiếp dựa trên một hiện tượng hiển hiện ngay trước mắt người nói.",
-    "examples": [
-      {
-        "text": "교실에 아무도 없는 걸 보니 모두 퇴근을 한 모양이에요.",
-        "highlight": "한 모양이에요",
-        "translation": "Nhìn phòng học không có một ai thế kia thì có vẻ như tất cả mọi người đều đã về rồi."
-      },
-      {
-        "text": "하늘에 구름이 가득한 걸 보니 곧 소나기가 올 모양입니다.",
-        "highlight": "올 모양입니다",
-        "translation": "Thấy trời đầy mây đen kịt thế này thì có vẻ như trời sắp sửa đổ mưa rào rồi."
-      },
-      {
-        "text": "북극곰이 먹이를 찾기 위해 바다 얼음 위를 이동하는 모양이다.",
-        "highlight": "이동하는 모양이다",
-        "translation": "Có vẻ như là gấu Bắc Cực đang di chuyển trên băng biển để tìm kiếm thức ăn."
-      },
-      {
-        "text": "화가가 붓을 들고 화폭을 바라보는 걸 보니 그림을 그리려는 모양입니다.",
-        "highlight": "그리려는 모양입니다",
-        "translation": "Nhìn việc họa sĩ cầm cọ ngắm nhìn tấm canvas thì có vẻ như là định vẽ tranh."
-      }
-    ]
-  },
-  {
-    "id": "GT0240",
-    "stt": 240,
+    "id": "GT0236",
+    "stt": 236,
     "grammar": "-(으)ㄹ 게 뻔하다",
     "topik": "II",
     "level": "4급",
@@ -8385,8 +8245,8 @@
     ]
   },
   {
-    "id": "GT0241",
-    "stt": 241,
+    "id": "GT0237",
+    "stt": 237,
     "grammar": "-(으)ㄹ지도 모른다",
     "topik": "II",
     "level": "2급",
@@ -8420,8 +8280,8 @@
     ]
   },
   {
-    "id": "GT0242",
-    "stt": 242,
+    "id": "GT0238",
+    "stt": 238,
     "grammar": "-ㄴ/는다 싶다",
     "topik": "II",
     "level": "4급",
@@ -8455,14 +8315,14 @@
     ]
   },
   {
-    "id": "GT0243",
-    "stt": 243,
-    "grammar": "-ㄴ/는지 모르다",
+    "id": "GT0239",
+    "stt": 239,
+    "grammar": "-지 모르다",
     "topik": "II",
     "level": "3급",
     "category": "Biểu hiện",
     "confusing": "",
-    "similar": "얼마나 -ㄴ/는지 모른다",
+    "similar": "-(으)ㄹ지도 모른다, -ㄹ/을지 모르겠다",
     "meaning": "Không biết là như thế nào / Vô cùng như thế nào (nhấn mạnh mức độ)",
     "structure": "V-ㄴ/는지 모르다, A-(으)ㄴ지 모르다",
     "note": "Có thể mang nghĩa nghi vấn (không biết điều gì) hoặc mang nghĩa cảm thán nhấn mạnh mức độ lớn.",
@@ -8490,15 +8350,15 @@
     ]
   },
   {
-    "id": "GT0244",
-    "stt": 244,
+    "id": "GT0240",
+    "stt": 240,
     "grammar": "-다 싶다",
     "topik": "II",
     "level": "4급",
     "category": "Phỏng đoán",
     "confusing": "",
     "similar": "-다고 생각하다",
-    "meaning": "Thấy rằng, nghĩ rằng là... (Đồng dạng cấu trúc ở STT 233)",
+    "meaning": "Thấy rằng, nghĩ rằng là...",
     "structure": "A-다 싶다",
     "note": "Thường đi với các tính từ để bộc lộ một luồng suy nghĩ hoặc đánh giá xuất hiện trong đầu.",
     "examples": [
@@ -8525,8 +8385,8 @@
     ]
   },
   {
-    "id": "GT0245",
-    "stt": 245,
+    "id": "GT0241",
+    "stt": 241,
     "grammar": "-ㄹ/을까 보다",
     "topik": "II",
     "level": "3급",
@@ -8560,14 +8420,14 @@
     ]
   },
   {
-    "id": "GT0246",
-    "stt": 246,
-    "grammar": "-ㄹ/을지 모르겠다",
+    "id": "GT0242",
+    "stt": 242,
+    "grammar": "-(으)ㄹ지 모르겠다",
     "topik": "II",
     "level": "3급",
     "category": "Phỏng đoán",
     "confusing": "",
-    "similar": "-(으)ㄹ지도 모르겠다",
+    "similar": "-(으)ㄹ지도 모르겠다, -지 모르다",
     "meaning": "Không biết là có như thế nào hay không (lo lắng, không chắc chắn)",
     "structure": "V/A-(으)ㄹ지 모르겠다",
     "note": "Thể hiện tâm trạng phân vân, thiếu chắc chắn về một sự việc diễn tiến ở tương lai hoặc quá khứ.",
@@ -8595,8 +8455,8 @@
     ]
   },
   {
-    "id": "GT0247",
-    "stt": 247,
+    "id": "GT0243",
+    "stt": 243,
     "grammar": "-아/어 보이다",
     "topik": "II",
     "level": "2급",
@@ -8630,8 +8490,8 @@
     ]
   },
   {
-    "id": "GT0248",
-    "stt": 248,
+    "id": "GT0244",
+    "stt": 244,
     "grammar": "-았/었던 것 같다",
     "topik": "II",
     "level": "3급",
@@ -8665,43 +8525,8 @@
     ]
   },
   {
-    "id": "GT0249",
-    "stt": 249,
-    "grammar": "-을지도 모르다",
-    "topik": "II",
-    "level": "3급",
-    "category": "Phỏng đoán",
-    "confusing": "",
-    "similar": "-(으)ㄹ 수도 있다, -ㄹ/을지 모르겠다",
-    "meaning": "Không biết chừng là...",
-    "structure": "V/A-(으)ㄹ지도 모르다",
-    "note": "Thể hiện mức độ phỏng đoán có tính mơ hồ, không dám chắc chắn hoàn toàn về khả năng xảy ra.",
-    "examples": [
-      {
-        "text": "준비가 부족하면 실전에서 당황할지도 몰라요.",
-        "highlight": "당황할지도 몰라요",
-        "translation": "Nếu sự chuẩn bị còn thiếu sót thì không biết chừng bạn sẽ bị cuống khi thi thật."
-      },
-      {
-        "text": "이번 프로젝트가 생각보다 일찍 끝날지도 모릅니다.",
-        "highlight": "끝날지도 모릅니다",
-        "translation": "Dự án lần này không biết chừng là sẽ kết thúc sớm hơn so với tưởng tượng"
-      },
-      {
-        "text": "블랙홀 근처에서는 강력한 중력으로 인해 시간의 흐름이 느려질지도 모른다.",
-        "highlight": "느려질지도 모른다",
-        "translation": "Ở gần lỗ đen, do trọng lực mạnh mẽ nên không biết chừng là dòng chảy thời gian sẽ chậm lại."
-      },
-      {
-        "text": "지리 시험 문제가 생각보다 어렵게 출제될지도 모릅니다.",
-        "highlight": "출제될지도 모릅니다",
-        "translation": "Không biết chừng là đề thi địa lý sẽ được ra khó hơn so với suy nghĩ."
-      }
-    ]
-  },
-  {
-    "id": "GT0250",
-    "stt": 250,
+    "id": "GT0245",
+    "stt": 245,
     "grammar": "-(으)ㄹ 수도 있다",
     "topik": "II",
     "level": "2급",
@@ -8735,43 +8560,8 @@
     ]
   },
   {
-    "id": "GT0251",
-    "stt": 251,
-    "grammar": "-기 마련이다",
-    "topik": "II",
-    "level": "3급",
-    "category": "Sự tất yếu",
-    "confusing": "",
-    "similar": "-(으)ㄴ/는 법이다, -게 되어 있다",
-    "meaning": "Đương nhiên là, dĩ nhiên sẽ xảy ra",
-    "structure": "V/A-기 마련이다",
-    "note": "Biểu thị một chân lý, quy luật hiển nhiên tự nhiên hoặc xã hội tất yếu phải diễn tiến.",
-    "examples": [
-      {
-        "text": "시간이 흐르면 예전의 뼈아픈 실패도 잊혀지기 마련이에요.",
-        "highlight": "잊혀지기 마련이에요",
-        "translation": "Khi thời gian trôi qua thì những thất bại đau đớn ngày trước đương nhiên cũng sẽ bị lãng quên thôi."
-      },
-      {
-        "text": "기초가 부실하면 고급 단계에서 한계에 부딪히기 마련입니다.",
-        "highlight": "부딪히기 마련입니다",
-        "translation": "Nếu nền tảng căn bản lỏng lẻo thì dĩ nhiên bạn sẽ vấp phải giới hạn ở giai đoạn cao cấp."
-      },
-      {
-        "text": "심리학적으로 타인과의 소통이 부족해지면 오해와 갈등이 발생하기 마련이다.",
-        "highlight": "발생하기 마련이다",
-        "translation": "Phía sau tâm lý học, nếu sự giao tiếp với người khác trở nên thiếu hụt thì đương nhiên hiểu lầm và xung đột sẽ xảy ra."
-      },
-      {
-        "text": "연습을 소홀히 하면 경기에서 제 실력을 발휘하지 못하기 마련입니다.",
-        "highlight": "발휘하지 못하기 마련입니다",
-        "translation": "Nếu lơ là việc luyện tập thì đương nhiên sẽ không thể phát huy thực lực trong trận đấu."
-      }
-    ]
-  },
-  {
-    "id": "GT0252",
-    "stt": 252,
+    "id": "GT0246",
+    "stt": 246,
     "grammar": "-기로 되어 있다",
     "topik": "II",
     "level": "4급",
@@ -8805,8 +8595,8 @@
     ]
   },
   {
-    "id": "GT0253",
-    "stt": 253,
+    "id": "GT0247",
+    "stt": 247,
     "grammar": "-는 법이다",
     "topik": "II",
     "level": "3급",
@@ -8840,8 +8630,8 @@
     ]
   },
   {
-    "id": "GT0254",
-    "stt": 254,
+    "id": "GT0248",
+    "stt": 248,
     "grammar": "-(으)ㄹ 수밖에 없다",
     "topik": "II",
     "level": "2급",
@@ -8875,8 +8665,8 @@
     ]
   },
   {
-    "id": "GT0255",
-    "stt": 255,
+    "id": "GT0249",
+    "stt": 249,
     "grammar": "-(으)ㄹ 필요가 있다/없다",
     "topik": "II",
     "level": "2급",
@@ -8910,8 +8700,8 @@
     ]
   },
   {
-    "id": "GT0256",
-    "stt": 256,
+    "id": "GT0250",
+    "stt": 250,
     "grammar": "-아/어야만 하다",
     "topik": "II",
     "level": "3급",
@@ -8945,8 +8735,8 @@
     ]
   },
   {
-    "id": "GT0257",
-    "stt": 257,
+    "id": "GT0251",
+    "stt": 251,
     "grammar": "-(으)ㄴ가 하면",
     "topik": "II",
     "level": "4급",
@@ -8980,8 +8770,8 @@
     ]
   },
   {
-    "id": "GT0258",
-    "stt": 258,
+    "id": "GT0252",
+    "stt": 252,
     "grammar": "-(으)면서도",
     "topik": "II",
     "level": "3급",
@@ -9015,8 +8805,8 @@
     ]
   },
   {
-    "id": "GT0259",
-    "stt": 259,
+    "id": "GT0253",
+    "stt": 253,
     "grammar": "-기는 하지만",
     "topik": "II",
     "level": "3급",
@@ -9050,8 +8840,8 @@
     ]
   },
   {
-    "id": "GT0260",
-    "stt": 260,
+    "id": "GT0254",
+    "stt": 254,
     "grammar": "-에 반해서",
     "topik": "II",
     "level": "4급",
@@ -9078,15 +8868,15 @@
         "translation": "Trái lại hoàn toàn với lịch sử phương Đông nhấn mạnh sự hòa hợp của cộng đồng thì lịch sử phương Tây lại coi trọng sự cạnh tranh của chủ thể cá biệt."
       },
       {
-        "text": "형은 축구를 좋아하는 반면에 동생은 야구를 더 좋아합니다.",
-        "highlight": "좋아하는 반면에",
+        "text": "형은 축구를 좋아하는 데 반해 동생은 야구를 더 좋아합니다.",
+        "highlight": "좋아하는 데 반해",
         "translation": "Trái lại hoàn toàn với anh trai thích bóng đá thì người em lại thích bóng rổ hơn."
       }
     ]
   },
   {
-    "id": "GT0261",
-    "stt": 261,
+    "id": "GT0255",
+    "stt": 255,
     "grammar": "(으)나",
     "topik": "II",
     "level": "3급",
@@ -9120,8 +8910,8 @@
     ]
   },
   {
-    "id": "GT0262",
-    "stt": 262,
+    "id": "GT0256",
+    "stt": 256,
     "grammar": "-고 나니",
     "topik": "II",
     "level": "3급",
@@ -9155,8 +8945,8 @@
     ]
   },
   {
-    "id": "GT0263",
-    "stt": 263,
+    "id": "GT0257",
+    "stt": 257,
     "grammar": "-고 나면",
     "topik": "II",
     "level": "3급",
@@ -9190,8 +8980,8 @@
     ]
   },
   {
-    "id": "GT0264",
-    "stt": 264,
+    "id": "GT0258",
+    "stt": 258,
     "grammar": "-고 나서야",
     "topik": "II",
     "level": "3급",
@@ -9225,15 +9015,15 @@
     ]
   },
   {
-    "id": "GT0265",
-    "stt": 265,
+    "id": "GT0259",
+    "stt": 259,
     "grammar": "-고서야",
     "topik": "II",
     "level": "3급",
     "category": "Thời gian & Trình tự",
     "confusing": "",
     "similar": "-고 나서야, -고서",
-    "meaning": "Sau khi làm xong việc gì đó thì mới... (Đồng dạng cấu trúc nhấn mạnh ở STT 258)",
+    "meaning": "Sau khi làm xong việc gì đó thì mới...",
     "structure": "V-고서야",
     "note": "Phiên bản rút gọn của '-고 나서야', thường đi kèm phó từ '비로소' ở vế sau để tăng tính nhấn mạnh.",
     "examples": [
@@ -9260,8 +9050,8 @@
     ]
   },
   {
-    "id": "GT0266",
-    "stt": 266,
+    "id": "GT0260",
+    "stt": 260,
     "grammar": "-는 길이다",
     "topik": "II",
     "level": "3급",
@@ -9295,8 +9085,8 @@
     ]
   },
   {
-    "id": "GT0267",
-    "stt": 267,
+    "id": "GT0261",
+    "stt": 261,
     "grammar": "-는 동시에",
     "topik": "II",
     "level": "4급",
@@ -9330,8 +9120,8 @@
     ]
   },
   {
-    "id": "GT0268",
-    "stt": 268,
+    "id": "GT0262",
+    "stt": 262,
     "grammar": "-는 사이에",
     "topik": "II",
     "level": "3급",
@@ -9365,8 +9155,8 @@
     ]
   },
   {
-    "id": "GT0269",
-    "stt": 269,
+    "id": "GT0263",
+    "stt": 263,
     "grammar": "-았/었/했었다",
     "topik": "II",
     "level": "3급",
@@ -9400,8 +9190,8 @@
     ]
   },
   {
-    "id": "GT0270",
-    "stt": 270,
+    "id": "GT0264",
+    "stt": 264,
     "grammar": "-을 무렵",
     "topik": "II",
     "level": "3급",
@@ -9435,8 +9225,8 @@
     ]
   },
   {
-    "id": "GT0271",
-    "stt": 271,
+    "id": "GT0265",
+    "stt": 265,
     "grammar": "-ㄴ/는다고",
     "topik": "II",
     "level": "3급",
@@ -9470,8 +9260,8 @@
     ]
   },
   {
-    "id": "GT0272",
-    "stt": 272,
+    "id": "GT0266",
+    "stt": 266,
     "grammar": "-ㄴ/는다고 하더니",
     "topik": "II",
     "level": "3급",
@@ -9505,8 +9295,8 @@
     ]
   },
   {
-    "id": "GT0273",
-    "stt": 273,
+    "id": "GT0267",
+    "stt": 267,
     "grammar": "-ㄴ/는다고 하던데",
     "topik": "II",
     "level": "3급",
@@ -9540,8 +9330,8 @@
     ]
   },
   {
-    "id": "GT0274",
-    "stt": 274,
+    "id": "GT0268",
+    "stt": 268,
     "grammar": "-다면서",
     "topik": "II",
     "level": "3급",
@@ -9575,8 +9365,8 @@
     ]
   },
   {
-    "id": "GT0275",
-    "stt": 275,
+    "id": "GT0269",
+    "stt": 269,
     "grammar": "-고 보니(까)",
     "topik": "II",
     "level": "3급",
@@ -9610,8 +9400,8 @@
     ]
   },
   {
-    "id": "GT0276",
-    "stt": 276,
+    "id": "GT0270",
+    "stt": 270,
     "grammar": "-곤 했다",
     "topik": "II",
     "level": "3급",
@@ -9645,8 +9435,8 @@
     ]
   },
   {
-    "id": "GT0277",
-    "stt": 277,
+    "id": "GT0271",
+    "stt": 271,
     "grammar": "-다(가) 보니(까)",
     "topik": "II",
     "level": "3급",
@@ -9680,8 +9470,8 @@
     ]
   },
   {
-    "id": "GT0278",
-    "stt": 278,
+    "id": "GT0272",
+    "stt": 272,
     "grammar": "-다(가) 보면",
     "topik": "II",
     "level": "3급",
@@ -9715,8 +9505,8 @@
     ]
   },
   {
-    "id": "GT0279",
-    "stt": 279,
+    "id": "GT0273",
+    "stt": 273,
     "grammar": "-다니",
     "topik": "II",
     "level": "3급",
@@ -9750,8 +9540,8 @@
     ]
   },
   {
-    "id": "GT0280",
-    "stt": 280,
+    "id": "GT0274",
+    "stt": 274,
     "grammar": "-아/어 보니",
     "topik": "II",
     "level": "3급",
@@ -9785,14 +9575,14 @@
     ]
   },
   {
-    "id": "GT0281",
-    "stt": 281,
+    "id": "GT0275",
+    "stt": 275,
     "grammar": "-(으)ㄴ/는 듯이",
     "topik": "II",
     "level": "4급",
     "category": "Biểu hiện",
     "confusing": "",
-    "similar": "처럼, 같이, -(으)ㄴ/는 것처럼",
+    "similar": "처럼, 같이, -(으)ㄴ/는 것처럼, 듯(이)",
     "meaning": "Cứ như là, cứ như thể là... (ví von, so sánh mức độ giống nhau)",
     "structure": "V-는 듯이, A-(으)ㄴ 듯이",
     "note": "Đồng nhất ý nghĩa với cấu trúc '-(으)ㄴ/는 것처럼', dùng nhiều trong cả văn nói và viết.",
@@ -9820,8 +9610,8 @@
     ]
   },
   {
-    "id": "GT0282",
-    "stt": 282,
+    "id": "GT0276",
+    "stt": 276,
     "grammar": "-고 있던 중이다",
     "topik": "II",
     "level": "3급",
@@ -9855,8 +9645,8 @@
     ]
   },
   {
-    "id": "GT0283",
-    "stt": 283,
+    "id": "GT0277",
+    "stt": 277,
     "grammar": "-기 시작하다",
     "topik": "II",
     "level": "2급",
@@ -9890,8 +9680,8 @@
     ]
   },
   {
-    "id": "GT0284",
-    "stt": 284,
+    "id": "GT0278",
+    "stt": 278,
     "grammar": "-는 길에",
     "topik": "II",
     "level": "3급",
@@ -9925,8 +9715,8 @@
     ]
   },
   {
-    "id": "GT0285",
-    "stt": 285,
+    "id": "GT0279",
+    "stt": 279,
     "grammar": "-아/어 가다",
     "topik": "II",
     "level": "3급",
@@ -9960,8 +9750,8 @@
     ]
   },
   {
-    "id": "GT0286",
-    "stt": 286,
+    "id": "GT0280",
+    "stt": 280,
     "grammar": "-아/어 가면서",
     "topik": "II",
     "level": "3급",
@@ -9995,8 +9785,8 @@
     ]
   },
   {
-    "id": "GT0287",
-    "stt": 287,
+    "id": "GT0281",
+    "stt": 281,
     "grammar": "-아/어 나가다",
     "topik": "II",
     "level": "3급",
@@ -10030,14 +9820,14 @@
     ]
   },
   {
-    "id": "GT0288",
-    "stt": 288,
-    "grammar": "-아/어 놓다",
+    "id": "GT0282",
+    "stt": 282,
+    "grammar": "-아/어/여 놓다",
     "topik": "II",
     "level": "3급",
     "category": "Trạng thái & Giai đoạn",
     "confusing": "",
-    "similar": "-아/어 두다",
+    "similar": "-아/어/여 두다",
     "meaning": "Làm sẵn việc gì đó rồi cứ để nguyên trạng thái duy trì như vậy",
     "structure": "V-아/어 놓다",
     "note": "Gần nghĩa với '-아/어 두다', nhấn mạnh vào kết quả của hành động được chuẩn bị sẵn.",
@@ -10065,8 +9855,8 @@
     ]
   },
   {
-    "id": "GT0289",
-    "stt": 289,
+    "id": "GT0283",
+    "stt": 283,
     "grammar": "-아/어 오다",
     "topik": "II",
     "level": "3급",
@@ -10100,8 +9890,8 @@
     ]
   },
   {
-    "id": "GT0290",
-    "stt": 290,
+    "id": "GT0284",
+    "stt": 284,
     "grammar": "바에야",
     "topik": "II",
     "level": "4급",
@@ -10135,8 +9925,8 @@
     ]
   },
   {
-    "id": "GT0291",
-    "stt": 291,
+    "id": "GT0285",
+    "stt": 285,
     "grammar": "고서라도",
     "topik": "II",
     "level": "4급",
@@ -10170,8 +9960,8 @@
     ]
   },
   {
-    "id": "GT0292",
-    "stt": 292,
+    "id": "GT0286",
+    "stt": 286,
     "grammar": "을/ㄹ 지언정",
     "topik": "II",
     "level": "4급",
@@ -10205,8 +9995,8 @@
     ]
   },
   {
-    "id": "GT0293",
-    "stt": 293,
+    "id": "GT0287",
+    "stt": 287,
     "grammar": "기에 망정이지",
     "topik": "II",
     "level": "4급",
@@ -10240,8 +10030,8 @@
     ]
   },
   {
-    "id": "GT0294",
-    "stt": 294,
+    "id": "GT0288",
+    "stt": 288,
     "grammar": "기가 무섭게",
     "topik": "II",
     "level": "4급",
@@ -10275,8 +10065,8 @@
     ]
   },
   {
-    "id": "GT0295",
-    "stt": 295,
+    "id": "GT0289",
+    "stt": 289,
     "grammar": "을/ㄹ 나위가 없다",
     "topik": "II",
     "level": "4급",
@@ -10310,8 +10100,8 @@
     ]
   },
   {
-    "id": "GT0296",
-    "stt": 296,
+    "id": "GT0290",
+    "stt": 290,
     "grammar": "N물론이고",
     "topik": "II",
     "level": "4급",
@@ -10345,8 +10135,8 @@
     ]
   },
   {
-    "id": "GT0297",
-    "stt": 297,
+    "id": "GT0291",
+    "stt": 291,
     "grammar": "(이)나",
     "topik": "II",
     "level": "3급",
@@ -10380,8 +10170,8 @@
     ]
   },
   {
-    "id": "GT0298",
-    "stt": 298,
+    "id": "GT0292",
+    "stt": 292,
     "grammar": "V/A다는 말/이야기/소식/소문/사실을 듣다",
     "topik": "II",
     "level": "3급",
@@ -10415,8 +10205,8 @@
     ]
   },
   {
-    "id": "GT0299",
-    "stt": 299,
+    "id": "GT0293",
+    "stt": 293,
     "grammar": "Bị động (피동사)",
     "topik": "II",
     "level": "3급",
@@ -10450,8 +10240,8 @@
     ]
   },
   {
-    "id": "GT0300",
-    "stt": 300,
+    "id": "GT0294",
+    "stt": 294,
     "grammar": "Chủ động (사동사)",
     "topik": "II",
     "level": "3급",
@@ -10485,8 +10275,8 @@
     ]
   },
   {
-    "id": "GT0301",
-    "stt": 301,
+    "id": "GT0295",
+    "stt": 295,
     "grammar": "N이라고 해서... 아니다",
     "topik": "II",
     "level": "3급",
@@ -10520,8 +10310,8 @@
     ]
   },
   {
-    "id": "GT0302",
-    "stt": 302,
+    "id": "GT0296",
+    "stt": 296,
     "grammar": "에",
     "topik": "II",
     "level": "2급",
@@ -10555,8 +10345,8 @@
     ]
   },
   {
-    "id": "GT0303",
-    "stt": 303,
+    "id": "GT0297",
+    "stt": 297,
     "grammar": "-(으)ㅁ에 따라(서)",
     "topik": "II",
     "level": "3급",
@@ -10590,8 +10380,8 @@
     ]
   },
   {
-    "id": "GT0304",
-    "stt": 304,
+    "id": "GT0298",
+    "stt": 298,
     "grammar": "-도록",
     "topik": "II",
     "level": "3급",
@@ -10625,8 +10415,8 @@
     ]
   },
   {
-    "id": "GT0305",
-    "stt": 305,
+    "id": "GT0299",
+    "stt": 299,
     "grammar": "만큼",
     "topik": "II",
     "level": "3급",
@@ -10660,8 +10450,8 @@
     ]
   },
   {
-    "id": "GT0306",
-    "stt": 306,
+    "id": "GT0300",
+    "stt": 300,
     "grammar": "만큼",
     "topik": "II",
     "level": "3급",
